@@ -8,6 +8,15 @@
         "-m",
         "app.mcp_server"
       ]
+    },
+    "fetch": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch"
+      ]
+    },
+    "aws-docs": {
+      "url": "https://knowledge-mcp.global.api.aws"
     }
   }
 }
